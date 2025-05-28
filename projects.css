@@ -1,0 +1,104 @@
+
+
+.project{
+
+                
+                padding: 40px;
+                border:20px;
+                font-size: 30px;
+                
+                
+            }
+
+body {
+    background-color: rgb(165, 200, 231);
+
+   
+
+  
+    }
+
+
+    header{
+    
+                text-align: right;
+                padding: 60px;
+                float: right;
+                font-size: 18px;
+                margin-bottom: 100px;
+                border-radius: 4px;
+    
+            }
+
+   
+            .button1{
+
+                width: 90px;
+                height: 40px;
+                border-radius: 20px;
+                padding-bottom: 4px;
+                font-size: 20px;
+                background-color:white;
+                color: black;
+                font-weight:600;
+                
+               
+
+            }
+
+
+     .button2{
+                width: 150px;
+                height: 50px;
+                font-size: 20px;
+                border-radius: 20px;
+                text-align: center;
+                color:black;
+                background-color:white;
+                font-weight:600;
+                padding: 6px;
+                font-style: normal;
+
+            }
+
+
+            .para1{
+                font-size: 70px;
+                font-weight: 200;
+                font-style: normal;
+                font-family: 'Georgia';
+                text-align: center;
+                padding-top: 10px;
+                padding-left: 350px;
+            }
+
+
+            .para2{
+                font-size: 40px;
+                font-weight: 100;
+                font-style: normal;
+                font-family:'Times New Roman';
+                text-decoration:underline;
+                
+               
+                
+                
+            }
+
+            p{
+                font-size: 30px;
+                font-weight: 25;
+                font-style: normal;
+                font-family:'Times New Roman';
+                
+            }
+
+            
+            .logo{
+                position: absolute;
+                top: 70px;
+                left: 890px;
+                object-fit: cover;
+                border-radius: 40px;
+                padding-left: 50px;
+            }
